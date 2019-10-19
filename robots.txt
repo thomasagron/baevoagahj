@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahxietuxah.nielschristian.dk/sitemap.xml
